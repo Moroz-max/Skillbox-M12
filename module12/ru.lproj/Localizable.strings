@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  module12
+
+  Created by Mac on 25.01.2023.
+  
+*/
+"Animals" = "Животные";
+"Cat" = "Кошка";
+"Bird" = "Птица";
+"Hello,world!" = "Привет мир!";
